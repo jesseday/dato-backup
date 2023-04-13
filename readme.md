@@ -12,5 +12,5 @@ needed if moving to a different host.
 
 | command | description |
 | ------- | ----------- |
-| `npm run export:content` | Exports all content from the main environment, including assets |
-| `npm run export:structure` | Exports the CMS model structure |
+| `export:content` | Exports all content from the main environment, including assets |
+| `export:structure` | Exports the CMS model structure |
