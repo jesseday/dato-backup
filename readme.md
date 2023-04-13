@@ -8,6 +8,8 @@ needed if moving to a different host.
 ## Usage
 
 * Install dependencies: `npm i`
+* Create your .env file: `cp .env.example .env`
+* Add your DatoCMS api key to the .env file
 * Run commands with `npm run [command]`
 
 | command | description |
