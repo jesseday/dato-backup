@@ -7,6 +7,10 @@ needed if moving to a different host.
 
 ## Usage
 
-* Install dependencies: `npm i`
-* Export all content: `npm run export:content`
-* Export the CMS model structure: `npm run export:structure`
+Install dependencies: `npm i`
+Run commands with `npm run [command]`
+
+| command | description |
+| ------- | ----------- |
+| `npm run export:content` | Exports all content from the main environment, including assets |
+| `npm run export:structure` | Exports the CMS model structure |
