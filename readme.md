@@ -7,8 +7,8 @@ needed if moving to a different host.
 
 ## Usage
 
-Install dependencies: `npm i`
-Run commands with `npm run [command]`
+* Install dependencies: `npm i`
+* Run commands with `npm run [command]`
 
 | command | description |
 | ------- | ----------- |
