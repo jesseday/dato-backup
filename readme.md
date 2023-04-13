@@ -3,7 +3,7 @@
 These scripts are to work with exporting content and
 structure from DatoCMS.  The intention is that this
 content and structure could then be transformed as
-needed if moving to a different host.
+needed if moving to a different cms.
 
 ## Usage
 
